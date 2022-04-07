@@ -1,6 +1,6 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="Hello ITEC Students!"/>
+  <HelloWorld msg="Hello ITEC Students from Heroku!"/>
 </template>
 
 <script>
